@@ -1,11 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void snakeDesign(){
-    int i, j;
-    
-}
-
 int main() {
       
     int n, ch, i, j;
