@@ -3,6 +3,10 @@ using namespace std;
 
 int main() {
       
+
+
+
+      
     int n, ch, i, j;
     cin>>n>>ch;
 
